@@ -1,10 +1,10 @@
 # ReyhanSanei
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ReyhanSni)](https://twitter.com/ReyhanSni)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reyhaneh-sanei/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_in.theworld_/)](https://www.instagram.com/_in.theworld_)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Reyhansni.2r@gmail.com)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/ReyhanSanei)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ReyhanSni)](https://twitter.com/ReyhanSni)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_in.theworld_/)](https://www.instagram.com/_in.theworld_)
+
 
 - 🌱 I teach Python, Machine Learning, Git, etc.
 - 📫 How to reach me: ReyhanSanei.2r@gmail.com
