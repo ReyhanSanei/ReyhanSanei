@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_in.theworld_/)](https://www.instagram.com/_in.theworld_)
 
 
-- 🌱 I teach Python, Machine Learning, Git, etc.
+- 🌱 I teach Electrical Engineering Courses.
 
 
 ### 🖥 Skills
