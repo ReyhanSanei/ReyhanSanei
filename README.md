@@ -6,7 +6,6 @@
 
 
 - 🌱 I teach Python, Machine Learning, Git, etc.
-- 📫 How to reach me: Reyhansni.2r@gmail.com
 
 
 ### 🖥 Skills
